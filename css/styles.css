@@ -87,7 +87,7 @@ nav a:hover {
 }
 
 .lema{
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Amatic SC';
 	font-weight: 800;
 	color: #fff;
 	text-align: center;
@@ -100,16 +100,16 @@ section {
 }
 
 .title {
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Architects Daughter';
 	font-weight: 800;
 }
 
 .text{
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Architects Daughter';
 }
 
 .textb{
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Architects Daughter';
 	font-size: 15px;
 	font-style: oblique;
 }
